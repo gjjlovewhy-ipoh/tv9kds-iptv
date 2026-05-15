@@ -407,6 +407,128 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视",央视台球
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.163:5540
+#EXTINF:-1 group-title="央视",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 group-title="央视",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV-10
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+#EXTINF:-1 group-title="央视",CCTV-16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4 America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5+
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 group-title="央视",CCTV-Women's Fashion
+http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1高清
+http://120.196.235.43:9901/udp://@224.1.6.22:5000
+#EXTINF:-1 group-title="央视",CCTV2高清
+http://120.196.235.43:9901/udp://@224.1.6.23:5000
+#EXTINF:-1 group-title="央视",CCTV3高清
+http://120.196.235.43:9901/udp://@224.1.6.24:5000
+#EXTINF:-1 group-title="央视",CCTV4
+http://120.196.235.43:9901/udp://@224.1.6.25:5000
+#EXTINF:-1 group-title="央视",CCTV5高清
+http://120.196.235.43:9901/udp://@224.1.6.26:5000
+#EXTINF:-1 group-title="央视",CCTV5+高清
+http://120.196.235.43:9901/udp://@224.1.6.27:5000
+#EXTINF:-1 group-title="央视",CCTV6高清
+http://120.196.235.43:9901/udp://@224.1.6.28:5000
+#EXTINF:-1 group-title="央视",CCTV7高清
+http://120.196.235.43:9901/udp://@224.1.6.29:5000
+#EXTINF:-1 group-title="央视",CCTV8高清
+http://120.196.235.43:9901/udp://@224.1.6.30:5000
+#EXTINF:-1 group-title="央视",CCTV9高清
+http://120.196.235.43:9901/udp://@224.1.6.31:5000
+#EXTINF:-1 group-title="央视",CCTV10高清
+http://120.196.235.43:9901/udp://@224.1.6.32:5000
+#EXTINF:-1 group-title="央视",CCTV11
+http://120.196.235.43:9901/udp://@224.1.6.33:5000
+#EXTINF:-1 group-title="央视",CCTV12高清
+http://120.196.235.43:9901/udp://@224.1.6.34:5000
+#EXTINF:-1 group-title="央视",CCTV13
+http://120.196.235.43:9901/udp://@224.1.6.35:5000
+#EXTINF:-1 group-title="央视",CCTV14高清
+http://120.196.235.43:9901/udp://@224.1.6.36:5000
+#EXTINF:-1 group-title="央视",CCTV15
+http://120.196.235.43:9901/udp://@224.1.6.37:5000
+#EXTINF:-1 group-title="央视",央视文化
+http://120.196.235.43:9901/udp://@224.1.6.101:5000
+#EXTINF:-1 group-title="央视",CCTV-1高清
+http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-2高清
+http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-3高清
+http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-4高清
+http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-5高清
+http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-5+高清
+http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-6高清
+http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-7高清
+http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-8高清
+http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-9高清
+http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-10高清
+http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-11高清
+http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-12高清
+http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-13
+http://120.238.84.45:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-14高清
+http://120.238.84.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-15
+http://120.238.84.45:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",央视文化
+http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV兵器高清
+http://120.238.84.45:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-17高清
+http://120.238.84.45:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视",CCTV-1
+http://39.164.164.132:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-2
+http://39.164.164.132:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-3
+http://39.164.164.132:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-4
+http://39.164.164.132:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-5
+http://39.164.164.132:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-6
+http://39.164.164.132:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-7
+http://39.164.164.132:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-8
+http://39.164.164.132:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-9
+http://39.164.164.132:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-10
+http://39.164.164.132:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-11
+http://39.164.164.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-12
+http://39.164.164.132:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-13
+http://39.164.164.132:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-14
+http://39.164.164.132:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视",CCTV-15
+http://39.164.164.132:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视",CCTV1-综合
 http://139.227.221.179:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视",CCTV2-财经
@@ -535,128 +657,6 @@ https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7924bf48
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/552496df
 #EXTINF:-1 group-title="央视",CCTV9
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/67adce74
-#EXTINF:-1 group-title="央视",CCTV-9
-https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13
-https://cdn3.163189.xyz/163189/cctv13
-#EXTINF:-1 group-title="央视",CCTV+ 1
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10
-https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV+ 2
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+
-http://69.30.246.194/live/cctv5p.m3u8
-#EXTINF:-1 group-title="央视",CCTV-Women's Fashion
-http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://120.196.235.43:9901/udp://@224.1.6.22:5000
-#EXTINF:-1 group-title="央视",CCTV2高清
-http://120.196.235.43:9901/udp://@224.1.6.23:5000
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://120.196.235.43:9901/udp://@224.1.6.24:5000
-#EXTINF:-1 group-title="央视",CCTV4
-http://120.196.235.43:9901/udp://@224.1.6.25:5000
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://120.196.235.43:9901/udp://@224.1.6.26:5000
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://120.196.235.43:9901/udp://@224.1.6.27:5000
-#EXTINF:-1 group-title="央视",CCTV6高清
-http://120.196.235.43:9901/udp://@224.1.6.28:5000
-#EXTINF:-1 group-title="央视",CCTV7高清
-http://120.196.235.43:9901/udp://@224.1.6.29:5000
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://120.196.235.43:9901/udp://@224.1.6.30:5000
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://120.196.235.43:9901/udp://@224.1.6.31:5000
-#EXTINF:-1 group-title="央视",CCTV10高清
-http://120.196.235.43:9901/udp://@224.1.6.32:5000
-#EXTINF:-1 group-title="央视",CCTV11
-http://120.196.235.43:9901/udp://@224.1.6.33:5000
-#EXTINF:-1 group-title="央视",CCTV12高清
-http://120.196.235.43:9901/udp://@224.1.6.34:5000
-#EXTINF:-1 group-title="央视",CCTV13
-http://120.196.235.43:9901/udp://@224.1.6.35:5000
-#EXTINF:-1 group-title="央视",CCTV14高清
-http://120.196.235.43:9901/udp://@224.1.6.36:5000
-#EXTINF:-1 group-title="央视",CCTV15
-http://120.196.235.43:9901/udp://@224.1.6.37:5000
-#EXTINF:-1 group-title="央视",央视文化
-http://120.196.235.43:9901/udp://@224.1.6.101:5000
-#EXTINF:-1 group-title="央视",CCTV-1高清
-http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-2高清
-http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-3高清
-http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-4高清
-http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-5高清
-http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-5+高清
-http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-6高清
-http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-7高清
-http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-8高清
-http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-9高清
-http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-10高清
-http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-11高清
-http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-12高清
-http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-13
-http://120.238.84.45:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-14高清
-http://120.238.84.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-15
-http://120.238.84.45:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",央视文化
-http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV兵器高清
-http://120.238.84.45:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-17高清
-http://120.238.84.45:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视",CCTV-1
-http://39.164.164.132:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-2
-http://39.164.164.132:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-3
-http://39.164.164.132:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-4
-http://39.164.164.132:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-5
-http://39.164.164.132:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-6
-http://39.164.164.132:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-7
-http://39.164.164.132:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-8
-http://39.164.164.132:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-9
-http://39.164.164.132:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-10
-http://39.164.164.132:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-11
-http://39.164.164.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-12
-http://39.164.164.132:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-13
-http://39.164.164.132:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-14
-http://39.164.164.132:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视",CCTV-15
-http://39.164.164.132:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视",湖南卫视	bosom
 http://218.92.37.174:9901/tsfile/live/0128_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="卫视",浙江卫视	bosom
@@ -1277,44 +1277,6 @@ http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="卫视",莲花卫视
 http://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 group-title="卫视",东方卫视
-http://139.227.221.179:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://139.227.221.179:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",浙江卫视
-http://139.227.221.179:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",江苏卫视
-http://139.227.221.179:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",北京卫视
-http://139.227.221.179:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://139.227.221.179:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",广东卫视
-http://139.227.221.179:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://139.227.221.179:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",辽宁卫视
-http://139.227.221.179:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",旅游卫视
-http://139.227.221.179:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",山东卫视
-http://139.227.221.179:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",天津卫视
-http://139.227.221.179:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://139.227.221.179:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",东南卫视
-http://139.227.221.179:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",湖北卫视
-http://139.227.221.179:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",河北卫视
-http://139.227.221.179:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视",人间卫视
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/67daec36
-#EXTINF:-1 group-title="卫视",上视东方影视
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cc959d7c
-#EXTINF:-1 group-title="卫视",东方购物
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/daa09d27
 #EXTINF:-1 group-title="卫视",广东卫视高清
 http://120.196.235.43:9901/udp://@224.1.6.12:5000
 #EXTINF:-1 group-title="卫视",广东珠江高清
@@ -1539,6 +1501,44 @@ http://39.164.164.132:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=
 http://39.164.164.132:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://39.164.164.132:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",东方卫视
+http://139.227.221.179:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://139.227.221.179:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://139.227.221.179:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://139.227.221.179:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",北京卫视
+http://139.227.221.179:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://139.227.221.179:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",广东卫视
+http://139.227.221.179:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://139.227.221.179:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://139.227.221.179:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",旅游卫视
+http://139.227.221.179:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",山东卫视
+http://139.227.221.179:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",天津卫视
+http://139.227.221.179:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://139.227.221.179:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",东南卫视
+http://139.227.221.179:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://139.227.221.179:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",河北卫视
+http://139.227.221.179:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",人间卫视
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/67daec36
+#EXTINF:-1 group-title="卫视",上视东方影视
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cc959d7c
+#EXTINF:-1 group-title="卫视",东方购物
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/daa09d27
 #EXTINF:-1 group-title="其他",2025-12-13 17:19:14	bosom
 https://taoiptv.com/time.mp4
 #EXTINF:-1 group-title="其他",卡酷动画	bosom
@@ -2527,490 +2527,6 @@ http://8.155.43.98:35455/douyu/10329324
 http://8.155.43.98:35455/douyu/10329310
 #EXTINF:-1 group-title="其他",笑笑笑团长
 http://8.155.43.98:35455/douyu/10329368
-#EXTINF:-1 group-title="其他",CNA Originals (1080p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2c766666
-#EXTINF:-1 group-title="其他",Channel 5
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fe342e5b
-#EXTINF:-1 group-title="其他",Channel 8
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/384ac5dd
-#EXTINF:-1 group-title="其他",Channel U
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/73e9ef49
-#EXTINF:-1 group-title="其他",Suria
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b7fdb739
-#EXTINF:-1 group-title="其他",Vasantham
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e1d97764
-#EXTINF:-1 group-title="其他",meWATCH LIVE 1 (1080p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4747e4e6
-#EXTINF:-1 group-title="其他",cctv
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f5e83a89#https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1ade4c62
-#EXTINF:-1 group-title="其他",mv
-https://sendlive.online/hls/mmtv.m3u8#https://lana.psm.mv/live/mtv.m3u8#https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
-#EXTINF:-1 group-title="其他",CGTN
-http://139.227.221.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他",Channel 13 (720p) [Not 24/7]
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/edaff1db
-#EXTINF:-1 group-title="其他",MMTV (1080p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/26be0f0c
-#EXTINF:-1 group-title="其他",Maldives TV (720p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fbf79695
-#EXTINF:-1 group-title="其他",Munnaaru
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e7c49509
-#EXTINF:-1 group-title="其他",NTV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/121e4dff
-#EXTINF:-1 group-title="其他",PSM News
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/da7fca31
-#EXTINF:-1 group-title="其他",Raajje TV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ba166660
-#EXTINF:-1 group-title="其他",SSTV (1080p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/384b2726
-#EXTINF:-1 group-title="其他",TV Maldives
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/24ce3589
-#EXTINF:-1 group-title="其他",VTV (1080p) [Not 24/7]
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d18f4272
-#EXTINF:-1 group-title="其他",YES
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/328e2a65
-#EXTINF:-1 group-title="其他",Channel K (720p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/309b0a6a
-#EXTINF:-1 group-title="其他",FORTUNE TV (720p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d143c60c
-#EXTINF:-1 group-title="其他",MN TV (720p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b99483de
-#EXTINF:-1 group-title="其他",MRTV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b00cbff5
-#EXTINF:-1 group-title="其他",MRTV 4 (720p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6ece45e2
-#EXTINF:-1 group-title="其他",MRTV Entertainment
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5f9fc1e3
-#EXTINF:-1 group-title="其他",MRTV NRC
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/65db2ecb
-#EXTINF:-1 group-title="其他",Mahar TV (720p)
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7545fe57
-#EXTINF:-1 group-title="其他",Astro AEC
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fbc4d52a
-#EXTINF:-1 group-title="其他",Astro AEC
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/684f064a
-#EXTINF:-1 group-title="其他",Astro AEC
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c4de5b0d
-#EXTINF:-1 group-title="其他",Astro AOD
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/28d075d5
-#EXTINF:-1 group-title="其他",Astro AOD
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/87aa2cdc
-#EXTINF:-1 group-title="其他",Astro AOD
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b9794af2
-#EXTINF:-1 group-title="其他",Astro QJ
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/019dff93
-#EXTINF:-1 group-title="其他",Astro QJ
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e360d65c
-#EXTINF:-1 group-title="其他",Astro QJ
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/81748dd4
-#EXTINF:-1 group-title="其他",Astro欢喜台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/62be98cd
-#EXTINF:-1 group-title="其他",Astro欢喜台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dd1ae3de
-#EXTINF:-1 group-title="其他",Astro欢喜台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/382387cf
-#EXTINF:-1 group-title="其他",Astro酷哒哒
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c1e881f8
-#EXTINF:-1 group-title="其他",CH5
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c2d76cb6
-#EXTINF:-1 group-title="其他",CH5
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4dc0da1c
-#EXTINF:-1 group-title="其他",CH5
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/615db8ab
-#EXTINF:-1 group-title="其他",CH8
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f245c074
-#EXTINF:-1 group-title="其他",CH8
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/18f4880e
-#EXTINF:-1 group-title="其他",CH8
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ec3081b3
-#EXTINF:-1 group-title="其他",CHC动作电影
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6911e4c5
-#EXTINF:-1 group-title="其他",CHC家庭影院
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/75b200c5
-#EXTINF:-1 group-title="其他",CHU
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/51b36862
-#EXTINF:-1 group-title="其他",CHU
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b6600d74
-#EXTINF:-1 group-title="其他",CHU
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fa307942
-#EXTINF:-1 group-title="其他",CMusic
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/65e7c834
-#EXTINF:-1 group-title="其他",CinemaWorld
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cc166559
-#EXTINF:-1 group-title="其他",DreamWorks梦工厂动画
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/39495a70
-#EXTINF:-1 group-title="其他",ELEVEN-体育1
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/02dc3248
-#EXTINF:-1 group-title="其他",ELEVEN-体育2
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9f03e276
-#EXTINF:-1 group-title="其他",HOY TV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e06c2e84
-#EXTINF:-1 group-title="其他",HOY TV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4c985f2c
-#EXTINF:-1 group-title="其他",HOY国际财经台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3545c520
-#EXTINF:-1 group-title="其他",HOY资讯台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d1a25227
-#EXTINF:-1 group-title="其他",HOY资讯台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ee501d25
-#EXTINF:-1 group-title="其他",MoMoTV-4K
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5822ff75
-#EXTINF:-1 group-title="其他",My Cinema Europe
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c05be9b8
-#EXTINF:-1 group-title="其他",RTHK31
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c1dfe58a
-#EXTINF:-1 group-title="其他",RTHK32
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/97f8548b
-#EXTINF:-1 group-title="其他",ViuTV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2bda3a3b
-#EXTINF:-1 group-title="其他",ViuTV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1d8257e4
-#EXTINF:-1 group-title="其他",ViuTV
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/07bf8694
-#EXTINF:-1 group-title="其他",ViuTV6
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d4e5777e
-#EXTINF:-1 group-title="其他",ViuTVSix
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/de8d65af
-#EXTINF:-1 group-title="其他",ViuTVsix
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5491166d
-#EXTINF:-1 group-title="其他",amc电影台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cc84c1c4
-#EXTINF:-1 group-title="其他",sky sports football
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/797fccb5
-#EXTINF:-1 group-title="其他",sky sports news
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/683051f8
-#EXTINF:-1 group-title="其他",东森戏剧
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5a37c5bc
-#EXTINF:-1 group-title="其他",东森洋片
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/aec0a3d6
-#EXTINF:-1 group-title="其他",东森电影
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a17603fc
-#EXTINF:-1 group-title="其他",东森超视-HD
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/511777dd
-#EXTINF:-1 group-title="其他",中视-HD
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0aafc1bc
-#EXTINF:-1 group-title="其他",五星体育
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1ea0b78b
-#EXTINF:-1 group-title="其他",八度空间
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bd99a528
-#EXTINF:-1 group-title="其他",八度空间
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0358b633
-#EXTINF:-1 group-title="其他",八度空间
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7d8c8109
-#EXTINF:-1 group-title="其他",八度空间
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f1d138ce
-#EXTINF:-1 group-title="其他",公视戏剧
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bdcbbf82
-#EXTINF:-1 group-title="其他",凤凰中文
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/49747d85
-#EXTINF:-1 group-title="其他",凤凰中文
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e2db7246
-#EXTINF:-1 group-title="其他",24小时城市联赛轮播台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c4459a54
-#EXTINF:-1 group-title="其他",ATP 权纯雨男单夺冠 小布抢七惜败 【回放】布云朝克特0-2权纯雨（赛场原声） 16:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/38d66d37
-#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【全场回放】中国3-2印度（鸿昆） 12:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9a3d09e7
-#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】何济霆/任翔宇2-0哈里哈兰/阿琼（鸿昆） 12:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2b8173d8
-#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】李诗沣2-1拉克什亚（鸿昆） 12:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/10e551e7
-#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】梁伟铿/王昶2-1兰基雷迪/谢提（鸿昆） 12:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ed8fc0f5
-#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】翁泓阳1-2阿尤什（鸿昆） 12:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dcbf6e73
-#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】陆光祖1-2普兰诺伊（鸿昆） 12:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3f77b4e0
-#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 1号场地 10:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cce40cd7
-#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 2号场地 10:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1366962c
-#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 3号场地 10:10
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c47a7b1e
-#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 4号场地 10:10
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e549ec64
-#EXTINF:-1 group-title="其他",CETV1
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e54fd5a9
-#EXTINF:-1 group-title="其他",CETV2
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/533e9742
-#EXTINF:-1 group-title="其他",CETV4
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/104fa758
-#EXTINF:-1 group-title="其他",CGTN
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7202e231
-#EXTINF:-1 group-title="其他",CGTN俄语
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ae289251
-#EXTINF:-1 group-title="其他",CGTN外语纪录
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/044ca743
-#EXTINF:-1 group-title="其他",CGTN法语
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/eea81a02
-#EXTINF:-1 group-title="其他",CGTN西班牙语
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/29e53230
-#EXTINF:-1 group-title="其他",CGTN阿拉伯语
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9308a23e
-#EXTINF:-1 group-title="其他",CHC动作电影
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1944de78
-#EXTINF:-1 group-title="其他",CHC家庭影院
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e3e0c1cf
-#EXTINF:-1 group-title="其他",CHC影迷电影
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0f3a4e38
-#EXTINF:-1 group-title="其他",NBA 76人VS尼克斯 姜帆 季孟年 拜月宁 03:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/900d7343
-#EXTINF:-1 group-title="其他",NBA 76人VS尼克斯 英文原声 03:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0daa61f1
-#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 智能字幕 07:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1ed51ba3
-#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 杨健 李根 闫宇峰 07:10
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fc3db743
-#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 王晓晨 07:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ac93f687
-#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 英文原声 07:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9f4dcf94
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 全场回放（庄宁宇、刘炜、陈正昊、廖昕阳） 18:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/801936fb
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 全场回放（英文原声） 18:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/14620872
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 全场回放（郑泽鹏） 18:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3c4d68e9
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 智能字幕 10:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/37d700b8
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 杨健 曾令旭 李根 10:10
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0c102d01
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 洪荒 10:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/09cee3ad
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 英文原声 10:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/15b42691
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 莫俊祺 10:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/95ffffa7
-#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 郑泽鹏 10:25
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c9b5138f
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 全场回放（吴博文） 02:55
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/05ba9af2
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 全场回放（英文原声） 02:55
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5cb21ef1
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 全场回放（连睿、周鹏、裴优） 02:55
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/22850d99
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 大史 07:55
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e77882ae
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 庄宁宇 张兆旭 徐咏 07:40
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/aa0fa7ea
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 智能字幕 07:55
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5a7a41bd
-#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 英文原声 07:55
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/439e53b9
-#EXTINF:-1 group-title="其他",U17亚洲杯 卡塔尔U17VS印度尼西亚U17 全场回放（张昊泽） 00:15
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f95a2bed
-#EXTINF:-1 group-title="其他",U17亚洲杯 印度U17VS乌兹别克斯坦U17 全场回放 00:45
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dff37f2d
-#EXTINF:-1 group-title="其他",U17亚洲杯 印度U17VS乌兹别克斯坦U17 全场回放（王子睿） 00:45
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0a1944ca
-#EXTINF:-1 group-title="其他",U17亚洲杯 泰国U17VS沙特阿拉伯U17 全场回放（张天翼） 00:45
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/192307e6
-#EXTINF:-1 group-title="其他",U17亚洲杯 缅甸U17VS塔吉克斯坦U17 全场回放 01:15
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/05ddd7fc
-#EXTINF:-1 group-title="其他",U17亚洲杯 缅甸U17VS塔吉克斯坦U17 全场回放（吴子越） 01:15
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9fd0e2c4
-#EXTINF:-1 group-title="其他",U17亚洲杯 阿联酋U17VS也门U17 全场回放（乔迁） 00:15
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8209e4fa
-#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【主赛】（王琰博、郝俊、李景亮） 04:50
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a84119c5
-#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【主赛】（英文原声） 04:50
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c787ef15
-#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【主赛】（陈瑞阳、郑文祺） 04:50
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/019b9b75
-#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【副赛】（王琰博、郝俊、李景亮） 04:50
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/70c1fc2f
-#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【副赛】（英文原声） 04:50
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/87945c55
-#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【副赛】（陈瑞阳、郑文祺） 04:50
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8f2b9f57
-#EXTINF:-1 group-title="其他",WTA WTA罗马站1/4决赛 英文原声 19:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/642cb417
-#EXTINF:-1 group-title="其他",WTA WTA罗马站1/4决赛 赛场原声 19:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/68cf4e84
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】伊埃拉0-2莱巴金娜（英文原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a164e0d7
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】伊埃拉0-2莱巴金娜（赛场原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ac6041aa
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】佩古拉2-0马萨洛娃（英文原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/db137ac9
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】佩古拉2-0马萨洛娃（赛场原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a8bb0073
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】大坂直美2-0施耐德（英文原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c07d2623
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】大坂直美2-0施耐德（赛场原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/28570233
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】斯维托丽娜2-0巴普蒂斯特（英文原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9e3ae656
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】斯维托丽娜2-0巴普蒂斯特（赛场原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7b0f810e
-#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】科恰雷托0-2斯瓦泰克（赛场原声） 17:00
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bc942344
-#EXTINF:-1 group-title="其他",i乐山
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d448c583
-#EXTINF:-1 group-title="其他",i乐山
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/13f34089
-#EXTINF:-1 group-title="其他",七台河民生社教
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8e714d1c
-#EXTINF:-1 group-title="其他",万荣综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5e08a38a
-#EXTINF:-1 group-title="其他",上海第一财经
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3313b332
-#EXTINF:-1 group-title="其他",上蔡综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8a6ecff0
-#EXTINF:-1 group-title="其他",东丰综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/870edaec
-#EXTINF:-1 group-title="其他",东丰综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dc96bdd7
-#EXTINF:-1 group-title="其他",东台综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/411c9902
-#EXTINF:-1 group-title="其他",东台综合频道
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8d7010fd
-#EXTINF:-1 group-title="其他",东莞生活资讯
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bd233d5a
-#EXTINF:-1 group-title="其他",东辽综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4c37583b
-#EXTINF:-1 group-title="其他",临江综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2090117c
-#EXTINF:-1 group-title="其他",临沧一套
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/268c8824
-#EXTINF:-1 group-title="其他",义马综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b04ffe04
-#EXTINF:-1 group-title="其他",乐至综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f92ba95c
-#EXTINF:-1 group-title="其他",乾安综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/995d0fe5
-#EXTINF:-1 group-title="其他",云南娱乐
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5d7c2846
-#EXTINF:-1 group-title="其他",云南康旅
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0cf6fce4
-#EXTINF:-1 group-title="其他",云龙综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d9aaa39f
-#EXTINF:-1 group-title="其他",五师双河综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a7c8199c
-#EXTINF:-1 group-title="其他",五常综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3f99725e
-#EXTINF:-1 group-title="其他",五常综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c78b75d7
-#EXTINF:-1 group-title="其他",井研综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/56a216a6
-#EXTINF:-1 group-title="其他",伊通综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/16800576
-#EXTINF:-1 group-title="其他",优漫卡通频道
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d1aef49e
-#EXTINF:-1 group-title="其他",体育休闲频道
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/10616c48
-#EXTINF:-1 group-title="其他",信阳文旅
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/70071752
-#EXTINF:-1 group-title="其他",儋州台
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0f245b0b
-#EXTINF:-1 group-title="其他",元江综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/73b03b48
-#EXTINF:-1 group-title="其他",元江综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/511b1896
-#EXTINF:-1 group-title="其他",克山综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b7b867f2
-#EXTINF:-1 group-title="其他",公主岭综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/11a1da85
-#EXTINF:-1 group-title="其他",公主岭综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dc256aaa
-#EXTINF:-1 group-title="其他",兴隆综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/25aaef76
-#EXTINF:-1 group-title="其他",内江综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cd74a48b
-#EXTINF:-1 group-title="其他",内江综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9b9e9ef5
-#EXTINF:-1 group-title="其他",内蒙古蒙语文化
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8a7324f1
-#EXTINF:-1 group-title="其他",内黄综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/87ccc8ed
-#EXTINF:-1 group-title="其他",农安综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/021f0164
-#EXTINF:-1 group-title="其他",凭祥综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/425938ec
-#EXTINF:-1 group-title="其他",前郭综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ed704b26
-#EXTINF:-1 group-title="其他",北方导视
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cec6f1bb
-#EXTINF:-1 group-title="其他",十四师昆玉综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b0dfc3e8
-#EXTINF:-1 group-title="其他",十堰经济旅游
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f204c5c0
-#EXTINF:-1 group-title="其他",华龙有线
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4143a523
-#EXTINF:-1 group-title="其他",南京十八频道
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/71b5c715
-#EXTINF:-1 group-title="其他",南京教科频道
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/230436ee
-#EXTINF:-1 group-title="其他",南宁文旅生活
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1183a5b1
-#EXTINF:-1 group-title="其他",南宁文旅生活
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8dcf43b8
-#EXTINF:-1 group-title="其他",卢氏综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/04c1e415
-#EXTINF:-1 group-title="其他",原阳综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dc92bb1f
-#EXTINF:-1 group-title="其他",双流综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/648f5c1d
-#EXTINF:-1 group-title="其他",呼玛综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/540d5626
-#EXTINF:-1 group-title="其他",咸丰综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/eb8439fd
-#EXTINF:-1 group-title="其他",哈尔滨生活
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6fa627a5
-#EXTINF:-1 group-title="其他",响水综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/65700a0f
-#EXTINF:-1 group-title="其他",唐河一套
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ac22dee7
-#EXTINF:-1 group-title="其他",嘉荫综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b58ef78f
-#EXTINF:-1 group-title="其他",四师可克达拉综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/29f0c980
-#EXTINF:-1 group-title="其他",四平综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bf55fc33
-#EXTINF:-1 group-title="其他",固镇综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5fea61bb
-#EXTINF:-1 group-title="其他",固镇综合
-https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2d0de2e4
-#EXTINF:-1 group-title="其他",PBS Kids Hawaii (720p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/80f904a9
-#EXTINF:-1 group-title="其他",Afroculture TV
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1bb53f1f
-#EXTINF:-1 group-title="其他",Donechchyna TV (720p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/311ac90d
-#EXTINF:-1 group-title="其他",英超 伯恩利VS阿斯顿维拉 全场回放（苗锟） 20:45
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7df82e85
-#EXTINF:-1 group-title="其他",Sor TV (720p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/49cf014e
-#EXTINF:-1 group-title="其他",RDS Social TV (720p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/67d8b7b6
-#EXTINF:-1 group-title="其他",Colors Super (1080p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a77fd0ad
-#EXTINF:-1 group-title="其他",Melody (288p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e22703eb
-#EXTINF:-1 group-title="其他",Fuse East (1080p) [Not 24/7]
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e5b7012b
-#EXTINF:-1 group-title="其他",GEM 24B
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d726d55e
-#EXTINF:-1 group-title="其他",Tolo News (720p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/265291de
-#EXTINF:-1 group-title="其他",Rockland TV (480p) [Not 24/7]
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ef5c959e
-#EXTINF:-1 group-title="其他",Prensa Latina TV (1080p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f5c4a320
-#EXTINF:-1 group-title="其他",Premiere FC 6
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0c708326
-#EXTINF:-1 group-title="其他",DD Bangla (576p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/40b8efd0
-#EXTINF:-1 group-title="其他",Súper Q Panamá (1080p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f34abd72
-#EXTINF:-1 group-title="其他",Carac 1 (1080p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1c291fc8
-#EXTINF:-1 group-title="其他",Oireachtas TV Committee Room 4 (720p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b595fb19
-#EXTINF:-1 group-title="其他",FX Movie Channel (720p) [Not 24/7]
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/707a7558
-#EXTINF:-1 group-title="其他",TV Belle Amie (540p)
-https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3ff17ca0
 #EXTINF:-1 group-title="其他",NHK World-Japan
 https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 #EXTINF:-1 group-title="其他",JORX-DTV
@@ -3877,6 +3393,490 @@ http://39.164.164.132:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=
 http://39.164.164.132:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他",undefined
 http://39.164.164.132:9901
+#EXTINF:-1 group-title="其他",CNA Originals (1080p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2c766666
+#EXTINF:-1 group-title="其他",Channel 5
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fe342e5b
+#EXTINF:-1 group-title="其他",Channel 8
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/384ac5dd
+#EXTINF:-1 group-title="其他",Channel U
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/73e9ef49
+#EXTINF:-1 group-title="其他",Suria
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b7fdb739
+#EXTINF:-1 group-title="其他",Vasantham
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e1d97764
+#EXTINF:-1 group-title="其他",meWATCH LIVE 1 (1080p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4747e4e6
+#EXTINF:-1 group-title="其他",cctv
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f5e83a89#https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1ade4c62
+#EXTINF:-1 group-title="其他",mv
+https://sendlive.online/hls/mmtv.m3u8#https://lana.psm.mv/live/mtv.m3u8#https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1 group-title="其他",CGTN
+http://139.227.221.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他",Channel 13 (720p) [Not 24/7]
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/edaff1db
+#EXTINF:-1 group-title="其他",MMTV (1080p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/26be0f0c
+#EXTINF:-1 group-title="其他",Maldives TV (720p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fbf79695
+#EXTINF:-1 group-title="其他",Munnaaru
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e7c49509
+#EXTINF:-1 group-title="其他",NTV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/121e4dff
+#EXTINF:-1 group-title="其他",PSM News
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/da7fca31
+#EXTINF:-1 group-title="其他",Raajje TV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ba166660
+#EXTINF:-1 group-title="其他",SSTV (1080p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/384b2726
+#EXTINF:-1 group-title="其他",TV Maldives
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/24ce3589
+#EXTINF:-1 group-title="其他",VTV (1080p) [Not 24/7]
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d18f4272
+#EXTINF:-1 group-title="其他",YES
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/328e2a65
+#EXTINF:-1 group-title="其他",Channel K (720p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/309b0a6a
+#EXTINF:-1 group-title="其他",FORTUNE TV (720p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d143c60c
+#EXTINF:-1 group-title="其他",MN TV (720p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b99483de
+#EXTINF:-1 group-title="其他",MRTV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b00cbff5
+#EXTINF:-1 group-title="其他",MRTV 4 (720p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6ece45e2
+#EXTINF:-1 group-title="其他",MRTV Entertainment
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5f9fc1e3
+#EXTINF:-1 group-title="其他",MRTV NRC
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/65db2ecb
+#EXTINF:-1 group-title="其他",Mahar TV (720p)
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7545fe57
+#EXTINF:-1 group-title="其他",Astro AEC
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fbc4d52a
+#EXTINF:-1 group-title="其他",Astro AEC
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/684f064a
+#EXTINF:-1 group-title="其他",Astro AEC
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c4de5b0d
+#EXTINF:-1 group-title="其他",Astro AOD
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/28d075d5
+#EXTINF:-1 group-title="其他",Astro AOD
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/87aa2cdc
+#EXTINF:-1 group-title="其他",Astro AOD
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b9794af2
+#EXTINF:-1 group-title="其他",Astro QJ
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/019dff93
+#EXTINF:-1 group-title="其他",Astro QJ
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e360d65c
+#EXTINF:-1 group-title="其他",Astro QJ
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/81748dd4
+#EXTINF:-1 group-title="其他",Astro欢喜台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/62be98cd
+#EXTINF:-1 group-title="其他",Astro欢喜台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dd1ae3de
+#EXTINF:-1 group-title="其他",Astro欢喜台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/382387cf
+#EXTINF:-1 group-title="其他",Astro酷哒哒
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c1e881f8
+#EXTINF:-1 group-title="其他",CH5
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c2d76cb6
+#EXTINF:-1 group-title="其他",CH5
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4dc0da1c
+#EXTINF:-1 group-title="其他",CH5
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/615db8ab
+#EXTINF:-1 group-title="其他",CH8
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f245c074
+#EXTINF:-1 group-title="其他",CH8
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/18f4880e
+#EXTINF:-1 group-title="其他",CH8
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ec3081b3
+#EXTINF:-1 group-title="其他",CHC动作电影
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6911e4c5
+#EXTINF:-1 group-title="其他",CHC家庭影院
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/75b200c5
+#EXTINF:-1 group-title="其他",CHU
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/51b36862
+#EXTINF:-1 group-title="其他",CHU
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b6600d74
+#EXTINF:-1 group-title="其他",CHU
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fa307942
+#EXTINF:-1 group-title="其他",CMusic
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/65e7c834
+#EXTINF:-1 group-title="其他",CinemaWorld
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cc166559
+#EXTINF:-1 group-title="其他",DreamWorks梦工厂动画
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/39495a70
+#EXTINF:-1 group-title="其他",ELEVEN-体育1
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/02dc3248
+#EXTINF:-1 group-title="其他",ELEVEN-体育2
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9f03e276
+#EXTINF:-1 group-title="其他",HOY TV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e06c2e84
+#EXTINF:-1 group-title="其他",HOY TV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4c985f2c
+#EXTINF:-1 group-title="其他",HOY国际财经台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3545c520
+#EXTINF:-1 group-title="其他",HOY资讯台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d1a25227
+#EXTINF:-1 group-title="其他",HOY资讯台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ee501d25
+#EXTINF:-1 group-title="其他",MoMoTV-4K
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5822ff75
+#EXTINF:-1 group-title="其他",My Cinema Europe
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c05be9b8
+#EXTINF:-1 group-title="其他",RTHK31
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c1dfe58a
+#EXTINF:-1 group-title="其他",RTHK32
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/97f8548b
+#EXTINF:-1 group-title="其他",ViuTV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2bda3a3b
+#EXTINF:-1 group-title="其他",ViuTV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1d8257e4
+#EXTINF:-1 group-title="其他",ViuTV
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/07bf8694
+#EXTINF:-1 group-title="其他",ViuTV6
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d4e5777e
+#EXTINF:-1 group-title="其他",ViuTVSix
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/de8d65af
+#EXTINF:-1 group-title="其他",ViuTVsix
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5491166d
+#EXTINF:-1 group-title="其他",amc电影台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cc84c1c4
+#EXTINF:-1 group-title="其他",sky sports football
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/797fccb5
+#EXTINF:-1 group-title="其他",sky sports news
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/683051f8
+#EXTINF:-1 group-title="其他",东森戏剧
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5a37c5bc
+#EXTINF:-1 group-title="其他",东森洋片
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/aec0a3d6
+#EXTINF:-1 group-title="其他",东森电影
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a17603fc
+#EXTINF:-1 group-title="其他",东森超视-HD
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/511777dd
+#EXTINF:-1 group-title="其他",中视-HD
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0aafc1bc
+#EXTINF:-1 group-title="其他",五星体育
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1ea0b78b
+#EXTINF:-1 group-title="其他",八度空间
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bd99a528
+#EXTINF:-1 group-title="其他",八度空间
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0358b633
+#EXTINF:-1 group-title="其他",八度空间
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7d8c8109
+#EXTINF:-1 group-title="其他",八度空间
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f1d138ce
+#EXTINF:-1 group-title="其他",公视戏剧
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bdcbbf82
+#EXTINF:-1 group-title="其他",凤凰中文
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/49747d85
+#EXTINF:-1 group-title="其他",凤凰中文
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e2db7246
+#EXTINF:-1 group-title="其他",24小时城市联赛轮播台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c4459a54
+#EXTINF:-1 group-title="其他",ATP 权纯雨男单夺冠 小布抢七惜败 【回放】布云朝克特0-2权纯雨（赛场原声） 16:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/38d66d37
+#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【全场回放】中国3-2印度（鸿昆） 12:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9a3d09e7
+#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】何济霆/任翔宇2-0哈里哈兰/阿琼（鸿昆） 12:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2b8173d8
+#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】李诗沣2-1拉克什亚（鸿昆） 12:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/10e551e7
+#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】梁伟铿/王昶2-1兰基雷迪/谢提（鸿昆） 12:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ed8fc0f5
+#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】翁泓阳1-2阿尤什（鸿昆） 12:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dcbf6e73
+#EXTINF:-1 group-title="其他",BWF 汤杯经典重映-中国 vs 印度 【回放】陆光祖1-2普兰诺伊（鸿昆） 12:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3f77b4e0
+#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 1号场地 10:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cce40cd7
+#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 2号场地 10:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1366962c
+#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 3号场地 10:10
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c47a7b1e
+#EXTINF:-1 group-title="其他",BWF 泰国羽毛球公开赛第一日 4号场地 10:10
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e549ec64
+#EXTINF:-1 group-title="其他",CETV1
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e54fd5a9
+#EXTINF:-1 group-title="其他",CETV2
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/533e9742
+#EXTINF:-1 group-title="其他",CETV4
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/104fa758
+#EXTINF:-1 group-title="其他",CGTN
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7202e231
+#EXTINF:-1 group-title="其他",CGTN俄语
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ae289251
+#EXTINF:-1 group-title="其他",CGTN外语纪录
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/044ca743
+#EXTINF:-1 group-title="其他",CGTN法语
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/eea81a02
+#EXTINF:-1 group-title="其他",CGTN西班牙语
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/29e53230
+#EXTINF:-1 group-title="其他",CGTN阿拉伯语
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9308a23e
+#EXTINF:-1 group-title="其他",CHC动作电影
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1944de78
+#EXTINF:-1 group-title="其他",CHC家庭影院
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e3e0c1cf
+#EXTINF:-1 group-title="其他",CHC影迷电影
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0f3a4e38
+#EXTINF:-1 group-title="其他",NBA 76人VS尼克斯 姜帆 季孟年 拜月宁 03:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/900d7343
+#EXTINF:-1 group-title="其他",NBA 76人VS尼克斯 英文原声 03:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0daa61f1
+#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 智能字幕 07:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1ed51ba3
+#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 杨健 李根 闫宇峰 07:10
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/fc3db743
+#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 王晓晨 07:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ac93f687
+#EXTINF:-1 group-title="其他",NBA 森林狼VS马刺 英文原声 07:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9f4dcf94
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 全场回放（庄宁宇、刘炜、陈正昊、廖昕阳） 18:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/801936fb
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 全场回放（英文原声） 18:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/14620872
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 全场回放（郑泽鹏） 18:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3c4d68e9
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 智能字幕 10:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/37d700b8
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 杨健 曾令旭 李根 10:10
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0c102d01
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 洪荒 10:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/09cee3ad
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 英文原声 10:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/15b42691
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 莫俊祺 10:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/95ffffa7
+#EXTINF:-1 group-title="其他",NBA 湖人VS雷霆 郑泽鹏 10:25
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c9b5138f
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 全场回放（吴博文） 02:55
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/05ba9af2
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 全场回放（英文原声） 02:55
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5cb21ef1
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 全场回放（连睿、周鹏、裴优） 02:55
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/22850d99
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 大史 07:55
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e77882ae
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 庄宁宇 张兆旭 徐咏 07:40
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/aa0fa7ea
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 智能字幕 07:55
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5a7a41bd
+#EXTINF:-1 group-title="其他",NBA 骑士VS活塞 英文原声 07:55
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/439e53b9
+#EXTINF:-1 group-title="其他",U17亚洲杯 卡塔尔U17VS印度尼西亚U17 全场回放（张昊泽） 00:15
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f95a2bed
+#EXTINF:-1 group-title="其他",U17亚洲杯 印度U17VS乌兹别克斯坦U17 全场回放 00:45
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dff37f2d
+#EXTINF:-1 group-title="其他",U17亚洲杯 印度U17VS乌兹别克斯坦U17 全场回放（王子睿） 00:45
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0a1944ca
+#EXTINF:-1 group-title="其他",U17亚洲杯 泰国U17VS沙特阿拉伯U17 全场回放（张天翼） 00:45
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/192307e6
+#EXTINF:-1 group-title="其他",U17亚洲杯 缅甸U17VS塔吉克斯坦U17 全场回放 01:15
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/05ddd7fc
+#EXTINF:-1 group-title="其他",U17亚洲杯 缅甸U17VS塔吉克斯坦U17 全场回放（吴子越） 01:15
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9fd0e2c4
+#EXTINF:-1 group-title="其他",U17亚洲杯 阿联酋U17VS也门U17 全场回放（乔迁） 00:15
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8209e4fa
+#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【主赛】（王琰博、郝俊、李景亮） 04:50
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a84119c5
+#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【主赛】（英文原声） 04:50
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c787ef15
+#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【主赛】（陈瑞阳、郑文祺） 04:50
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/019b9b75
+#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【副赛】（王琰博、郝俊、李景亮） 04:50
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/70c1fc2f
+#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【副赛】（英文原声） 04:50
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/87945c55
+#EXTINF:-1 group-title="其他",UFC数字赛 吧主终结狼王不败神话 约书亚TKO平良达郎强势卫冕 【副赛】（陈瑞阳、郑文祺） 04:50
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8f2b9f57
+#EXTINF:-1 group-title="其他",WTA WTA罗马站1/4决赛 英文原声 19:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/642cb417
+#EXTINF:-1 group-title="其他",WTA WTA罗马站1/4决赛 赛场原声 19:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/68cf4e84
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】伊埃拉0-2莱巴金娜（英文原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a164e0d7
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】伊埃拉0-2莱巴金娜（赛场原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ac6041aa
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】佩古拉2-0马萨洛娃（英文原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/db137ac9
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】佩古拉2-0马萨洛娃（赛场原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a8bb0073
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】大坂直美2-0施耐德（英文原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c07d2623
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】大坂直美2-0施耐德（赛场原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/28570233
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】斯维托丽娜2-0巴普蒂斯特（英文原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9e3ae656
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】斯维托丽娜2-0巴普蒂斯特（赛场原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7b0f810e
+#EXTINF:-1 group-title="其他",WTA 斯瓦泰克横扫 莱巴金娜2-0伊埃拉 【回放】科恰雷托0-2斯瓦泰克（赛场原声） 17:00
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bc942344
+#EXTINF:-1 group-title="其他",i乐山
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d448c583
+#EXTINF:-1 group-title="其他",i乐山
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/13f34089
+#EXTINF:-1 group-title="其他",七台河民生社教
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8e714d1c
+#EXTINF:-1 group-title="其他",万荣综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5e08a38a
+#EXTINF:-1 group-title="其他",上海第一财经
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3313b332
+#EXTINF:-1 group-title="其他",上蔡综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8a6ecff0
+#EXTINF:-1 group-title="其他",东丰综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/870edaec
+#EXTINF:-1 group-title="其他",东丰综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dc96bdd7
+#EXTINF:-1 group-title="其他",东台综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/411c9902
+#EXTINF:-1 group-title="其他",东台综合频道
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8d7010fd
+#EXTINF:-1 group-title="其他",东莞生活资讯
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bd233d5a
+#EXTINF:-1 group-title="其他",东辽综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4c37583b
+#EXTINF:-1 group-title="其他",临江综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2090117c
+#EXTINF:-1 group-title="其他",临沧一套
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/268c8824
+#EXTINF:-1 group-title="其他",义马综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b04ffe04
+#EXTINF:-1 group-title="其他",乐至综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f92ba95c
+#EXTINF:-1 group-title="其他",乾安综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/995d0fe5
+#EXTINF:-1 group-title="其他",云南娱乐
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5d7c2846
+#EXTINF:-1 group-title="其他",云南康旅
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0cf6fce4
+#EXTINF:-1 group-title="其他",云龙综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d9aaa39f
+#EXTINF:-1 group-title="其他",五师双河综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a7c8199c
+#EXTINF:-1 group-title="其他",五常综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3f99725e
+#EXTINF:-1 group-title="其他",五常综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c78b75d7
+#EXTINF:-1 group-title="其他",井研综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/56a216a6
+#EXTINF:-1 group-title="其他",伊通综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/16800576
+#EXTINF:-1 group-title="其他",优漫卡通频道
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d1aef49e
+#EXTINF:-1 group-title="其他",体育休闲频道
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/10616c48
+#EXTINF:-1 group-title="其他",信阳文旅
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/70071752
+#EXTINF:-1 group-title="其他",儋州台
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0f245b0b
+#EXTINF:-1 group-title="其他",元江综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/73b03b48
+#EXTINF:-1 group-title="其他",元江综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/511b1896
+#EXTINF:-1 group-title="其他",克山综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b7b867f2
+#EXTINF:-1 group-title="其他",公主岭综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/11a1da85
+#EXTINF:-1 group-title="其他",公主岭综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dc256aaa
+#EXTINF:-1 group-title="其他",兴隆综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/25aaef76
+#EXTINF:-1 group-title="其他",内江综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cd74a48b
+#EXTINF:-1 group-title="其他",内江综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9b9e9ef5
+#EXTINF:-1 group-title="其他",内蒙古蒙语文化
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8a7324f1
+#EXTINF:-1 group-title="其他",内黄综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/87ccc8ed
+#EXTINF:-1 group-title="其他",农安综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/021f0164
+#EXTINF:-1 group-title="其他",凭祥综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/425938ec
+#EXTINF:-1 group-title="其他",前郭综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ed704b26
+#EXTINF:-1 group-title="其他",北方导视
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/cec6f1bb
+#EXTINF:-1 group-title="其他",十四师昆玉综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b0dfc3e8
+#EXTINF:-1 group-title="其他",十堰经济旅游
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f204c5c0
+#EXTINF:-1 group-title="其他",华龙有线
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/4143a523
+#EXTINF:-1 group-title="其他",南京十八频道
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/71b5c715
+#EXTINF:-1 group-title="其他",南京教科频道
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/230436ee
+#EXTINF:-1 group-title="其他",南宁文旅生活
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1183a5b1
+#EXTINF:-1 group-title="其他",南宁文旅生活
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/8dcf43b8
+#EXTINF:-1 group-title="其他",卢氏综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/04c1e415
+#EXTINF:-1 group-title="其他",原阳综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/dc92bb1f
+#EXTINF:-1 group-title="其他",双流综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/648f5c1d
+#EXTINF:-1 group-title="其他",呼玛综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/540d5626
+#EXTINF:-1 group-title="其他",咸丰综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/eb8439fd
+#EXTINF:-1 group-title="其他",哈尔滨生活
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6fa627a5
+#EXTINF:-1 group-title="其他",响水综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/65700a0f
+#EXTINF:-1 group-title="其他",唐河一套
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ac22dee7
+#EXTINF:-1 group-title="其他",嘉荫综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b58ef78f
+#EXTINF:-1 group-title="其他",四师可克达拉综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/29f0c980
+#EXTINF:-1 group-title="其他",四平综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/bf55fc33
+#EXTINF:-1 group-title="其他",固镇综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/5fea61bb
+#EXTINF:-1 group-title="其他",固镇综合
+https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/2d0de2e4
+#EXTINF:-1 group-title="其他",PBS Kids Hawaii (720p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/80f904a9
+#EXTINF:-1 group-title="其他",Afroculture TV
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1bb53f1f
+#EXTINF:-1 group-title="其他",Donechchyna TV (720p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/311ac90d
+#EXTINF:-1 group-title="其他",英超 伯恩利VS阿斯顿维拉 全场回放（苗锟） 20:45
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/7df82e85
+#EXTINF:-1 group-title="其他",Sor TV (720p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/49cf014e
+#EXTINF:-1 group-title="其他",RDS Social TV (720p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/67d8b7b6
+#EXTINF:-1 group-title="其他",Colors Super (1080p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/a77fd0ad
+#EXTINF:-1 group-title="其他",Melody (288p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e22703eb
+#EXTINF:-1 group-title="其他",Fuse East (1080p) [Not 24/7]
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/e5b7012b
+#EXTINF:-1 group-title="其他",GEM 24B
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/d726d55e
+#EXTINF:-1 group-title="其他",Tolo News (720p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/265291de
+#EXTINF:-1 group-title="其他",Rockland TV (480p) [Not 24/7]
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ef5c959e
+#EXTINF:-1 group-title="其他",Prensa Latina TV (1080p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f5c4a320
+#EXTINF:-1 group-title="其他",Premiere FC 6
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/0c708326
+#EXTINF:-1 group-title="其他",DD Bangla (576p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/40b8efd0
+#EXTINF:-1 group-title="其他",Súper Q Panamá (1080p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/f34abd72
+#EXTINF:-1 group-title="其他",Carac 1 (1080p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/1c291fc8
+#EXTINF:-1 group-title="其他",Oireachtas TV Committee Room 4 (720p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b595fb19
+#EXTINF:-1 group-title="其他",FX Movie Channel (720p) [Not 24/7]
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/707a7558
+#EXTINF:-1 group-title="其他",TV Belle Amie (540p)
+https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/3ff17ca0
 #EXTINF:-1 group-title="地方",中国教育1	bosom
 http://117.172.164.225:8188/rtp/239.11.0.139:5140
 #EXTINF:-1 group-title="地方",中国教育2	bosom
@@ -4023,6 +4023,26 @@ http://8.155.43.98:35455/douyu/8009547
 http://8.155.43.98:35455/douyu/10298846
 #EXTINF:-1 group-title="地方",影视5
 http://8.155.43.98:35455/douyu/2793084
+#EXTINF:-1 group-title="地方",少儿动画
+http://120.196.235.43:9901/udp://@224.1.6.44:5000
+#EXTINF:-1 group-title="地方",中国教育
+http://120.196.235.43:9901/udp://@224.1.6.68:5000
+#EXTINF:-1 group-title="地方",现代教育
+http://120.196.235.43:9901/udp://@224.1.6.106:5000
+#EXTINF:-1 group-title="地方",都市剧场高清
+http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",少儿动画
+http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",中国教育高清
+http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",山东教育
+http://120.238.84.45:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",河南都市
+http://39.164.164.132:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方",河南新闻
+http://39.164.164.132:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方",周口新闻综合
+http://39.164.164.132:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="地方",NOW新闻台
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/9bda51d9
 #EXTINF:-1 group-title="地方",NOW新闻台
@@ -4097,26 +4117,6 @@ https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/b6917dac
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/6cbaeb44
 #EXTINF:-1 group-title="地方",广州新闻
 https://iptv-search.com/live/free/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/15c96bc3
-#EXTINF:-1 group-title="地方",少儿动画
-http://120.196.235.43:9901/udp://@224.1.6.44:5000
-#EXTINF:-1 group-title="地方",中国教育
-http://120.196.235.43:9901/udp://@224.1.6.68:5000
-#EXTINF:-1 group-title="地方",现代教育
-http://120.196.235.43:9901/udp://@224.1.6.106:5000
-#EXTINF:-1 group-title="地方",都市剧场高清
-http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",少儿动画
-http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",中国教育高清
-http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",山东教育
-http://120.238.84.45:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",河南都市
-http://39.164.164.132:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="地方",河南新闻
-http://39.164.164.132:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="地方",周口新闻综合
-http://39.164.164.132:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="港澳台",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="港澳台",TVB
@@ -4133,6 +4133,16 @@ http://cdn6.163189.xyz/163189/asam
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="港澳台",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="港澳台",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS News
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://120.196.235.43:9901/udp://@224.1.6.8:5000
+#EXTINF:-1 group-title="港澳台",明珠台
+http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳台",TVB Entertainment
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/c6813651
 #EXTINF:-1 group-title="港澳台",TVB Jade
@@ -4165,16 +4175,6 @@ https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/37020a1a
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/ca755181
 #EXTINF:-1 group-title="港澳台",TVB星河(粤语无字幕)
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/666efd35
-#EXTINF:-1 group-title="港澳台",TVBS-Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS News
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://120.196.235.43:9901/udp://@224.1.6.8:5000
-#EXTINF:-1 group-title="港澳台",明珠台
-http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="海外",U17亚洲杯 中国U17VS日本U17 全场回放（鹿中原、王宇） 23:45
 https://iptv-search.com/live/fav/v84gMpcswCPz2lWABI4DwliIZTCqd6YI/980a17f5
 #EXTINF:-1 group-title="海外",U17亚洲杯 越南U17VS韩国U17 全场回放 23:45
