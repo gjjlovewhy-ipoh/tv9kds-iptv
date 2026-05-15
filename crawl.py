@@ -73,22 +73,22 @@ def main():
         g = get_genre(n)
         groups.setdefault(g, []).append((n, u))
 
-    # 输出 txt（带 #genre 分组）
+    # 输出 txt（标准格式：分组名,#genre#）
     with open("live.txt", "w", encoding="utf-8") as f:
         for g, items in groups.items():
-            f.write(f"#genre:{g}\n")
+            f.write(f"{g},#genre#\n")  # ✅ 你要的格式
             for n, u in items:
                 f.write(f"{n},{u}\n")
             f.write("\n")
 
-    # 输出 m3u（带 group-title）
+    # 输出 m3u（保持不变）
     with open("live.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for g, items in groups.items():
             for n, u in items:
                 f.write(f'#EXTINF:-1 group-title="{g}",{n}\n{u}\n')
 
-    print("✅ 已生成 live.txt / live.m3u")
+    print("✅ 已生成 live.txt（#genre# 格式）/ live.m3u")
 
 if __name__ == "__main__":
     main()
